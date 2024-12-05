@@ -680,7 +680,7 @@ GEM
     turbo-rails (2.0.11)
       actionpack (>= 6.0.0)
       railties (>= 6.0.0)
-    twitter-typeahead-rails (0.11.1.pre.corejavascript)
+    twitter-typeahead-rails (0.11.1)
       actionpack (>= 3.1)
       jquery-rails
       railties (>= 3.1)
@@ -772,7 +772,7 @@ DEPENDENCIES
   sqlite3 (>= 1.4)
   stimulus-rails
   turbo-rails
-  twitter-typeahead-rails (= 0.11.1.pre.corejavascript)
+  twitter-typeahead-rails (= 0.11.1)
   tzinfo-data
   vite_rails (~> 3.0)
   web-console
